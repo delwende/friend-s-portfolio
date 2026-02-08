@@ -16,6 +16,7 @@ const Navigation = () => {
   const navLinks = [
     { href: "#about", label: "About" },
     { href: "#research", label: "Research" },
+    { href: "#partnerships", label: "Partnerships" },
     { href: "#publications", label: "Publications" },
     { href: "#experience", label: "Experience" },
     { href: "#contact", label: "Contact" },
