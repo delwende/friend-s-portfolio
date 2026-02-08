@@ -25,12 +25,12 @@ const Hero = () => {
           
           {/* Role */}
           <p className="text-base md:text-lg text-muted-foreground mb-6 max-w-2xl mx-auto font-light">
-            Associate Director & Research Assistant Professor
+            Climate-Smart Agriculture & Research-for-Development Specialist
           </p>
           
           {/* Affiliation */}
           <p className="text-sm md:text-base text-muted-foreground mb-8 max-w-2xl mx-auto">
-            USAID Innovation Lab for Current & Emerging Threats to Crops
+            Associate Director – USAID Innovation Lab for Current & Emerging Threats to Crops
             <br />
             <span className="text-primary font-medium">The Pennsylvania State University</span>
           </p>
